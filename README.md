@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richie Thomas</h1>
 <h3 align="center">A passionate prospector from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richiebthomas&label=Profile%20views&color=0e75b6&style=flat" alt="richiebthomas" /> </p>
 
 - 🔭 I’m currently working on **AIML/Backend WebDev**
 
