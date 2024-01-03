@@ -2,7 +2,7 @@
 <h3 align="center">Professional ChatGPT copy-paster</h3>
 
 
-- 🔭 I’m currently working on **AIML/Backend WebDev**
+- 🔭 I’m currently working on **AIML/Backend Web**
 
 - 🌱 I’m currently learning **AIML/Backend**
 
