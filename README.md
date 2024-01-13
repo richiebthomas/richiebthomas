@@ -3,15 +3,9 @@
 
 - 🔭 I’m currently working on **AIML/Backend**
 
-- 🌱 I’m currently learning **AIML/Backend**
-
-- 👯 I’m looking to collaborate on **Web app projects**
-
 - 🤝 I’m looking for help with **nothing really**
 
 - 📫 How to reach me **Discord @rbtthegreat**
-
-- ⚡ Fun fact **I am the best prospector**
 
 
 <p align="left">
